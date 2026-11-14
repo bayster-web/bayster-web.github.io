@@ -1,0 +1,28 @@
+---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Sophie Thatcher.md
+created: 2026-07-07T08:12:38.212Z
+modified: 2026-10-24T16:49:01.123Z
+published: 2026-10-24T16:49:01.123Z
+tags:
+  - RoyalCourt
+---
+
+[[Pavement]] Music Video (Harness Your Hopes)
+[[Chicago P.D.]]
+The Exorcist (Fox Show)
+[[Chicago Med]]
+When the Streetlights Go On
+[[Yellowjackets]]
+[[Star Wars Franchise]] - The Book of Boba Fett
+Growing Strong
+Prospect
+The Tomorrow Man
+Blink
+Provo
+The Boogeyman
+MaXXXine
+Heretic
+[[Companion]]
+Her Private Hell
+Peaches

@@ -1,0 +1,7 @@
+---
+publish: true
+permalink: /Unfinished Links/Other/Layer - Simpsons Ads/Ramada (Hotel Chain).md
+created: 2026-08-19T21:12:34.057Z
+modified: 2026-09-05T07:06:28.928Z
+published: 2026-09-05T07:06:28.928Z
+---
