@@ -1,0 +1,9 @@
+---
+publish: true
+permalink: /Layer 3 - Projects (Date Everything)/Video Games/Death Stranding 2.md
+created: 2026-07-21T12:08:36.913Z
+modified: 2026-09-05T07:06:26.979Z
+published: 2026-09-05T07:06:26.979Z
+tags:
+  - DateEverything
+---
