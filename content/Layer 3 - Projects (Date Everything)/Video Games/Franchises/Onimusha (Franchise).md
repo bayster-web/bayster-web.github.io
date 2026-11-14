@@ -1,9 +1,0 @@
----
-publish: true
-permalink: /Layer 3 - Projects (Date Everything)/Video Games/Franchises/Onimusha (Franchise).md
-created: 2026-09-01T09:26:25.962Z
-modified: 2026-09-05T07:06:27.176Z
-published: 2026-09-05T07:06:27.176Z
----
-
-[[Teppen]] (Crossover)

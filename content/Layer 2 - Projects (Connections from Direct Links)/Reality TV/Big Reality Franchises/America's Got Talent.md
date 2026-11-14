@@ -1,8 +1,0 @@
----
-publish: true
-permalink: /Layer 2 - Projects (Connections from Direct Links)/Reality TV/Big Reality Franchises/America's Got Talent.md
-created: 2026-07-07T08:12:35.649Z
-modified: 2026-09-05T07:06:16.550Z
-published: 2026-09-05T07:06:16.550Z
-tags: []
----

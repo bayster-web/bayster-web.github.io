@@ -1,7 +1,0 @@
----
-publish: true
-permalink: /Layer 3 - Projects (Connections from Brittany Broski's Royal Court)/Sci-Fi Shows/House of the Dragon.md
-created: 2026-09-05T05:38:40.662Z
-modified: 2026-09-05T07:06:24.036Z
-published: 2026-09-05T07:06:24.036Z
----

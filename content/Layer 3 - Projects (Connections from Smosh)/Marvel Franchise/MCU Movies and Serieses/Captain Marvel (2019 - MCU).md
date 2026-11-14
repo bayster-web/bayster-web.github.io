@@ -1,7 +1,0 @@
----
-publish: true
-permalink: /Layer 3 - Projects (Connections from Smosh)/Marvel Franchise/MCU Movies and Serieses/Captain Marvel (2019 - MCU).md
-created: 2026-08-19T11:46:21.378Z
-modified: 2026-09-05T07:06:24.364Z
-published: 2026-09-05T07:06:24.364Z
----

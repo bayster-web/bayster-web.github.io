@@ -1,8 +1,0 @@
----
-publish: true
-permalink: /Layer 3 - Projects (Connections from Annoying Orange)/Movies/Anime Movies/Studio Ghibli/Castle in the Sky (1986).md
-created: 2026-07-07T08:12:36.519Z
-modified: 2026-09-05T07:06:20.001Z
-published: 2026-09-05T07:06:20.001Z
-tags: []
----

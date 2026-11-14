@@ -1,9 +1,0 @@
----
-publish: true
-permalink: /Unfinished Links/Layer 2 - Actors and Voice Actors (Date Everything)/John Patneaude.md
-created: 2026-07-19T00:19:02.231Z
-modified: 2026-09-05T07:06:27.716Z
-published: 2026-09-05T07:06:27.716Z
-tags:
-  - DateEverything
----
